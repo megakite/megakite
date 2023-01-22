@@ -1,7 +1,7 @@
-### Nice to meet you.
+### Nice to meet you. This is the place where you land safely.
 
-- 🔭 I’m currently working on:\
+- Currently working on:\
 various web projects, scripts & plugins for creative applications, system programming, reinforcement learning, and so on. 
-- 🌱 I’m currently learning:\
-Rust, C++ 17/20, Python, LISP (Racket), etc.
-- 🎥 I’m formerly (and now, probably) a motion designer & music producer.
+- Currently learning:\
+Rust, C++17/20, , Python, etc.
+- Formerly (and now, probably) a motion designer & music producer.
