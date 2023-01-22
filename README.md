@@ -1,14 +1,10 @@
-### Hi there 👋
-
-<!--**megakite/megakite** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:-->
+### Nice to meet you.
 
 - 🔭 I’m currently working on various web projects, scripts & plugins for creative applications, brain-computer interface, and so on. 
-- 🌱 I’m currently learning Rust programming, OpenCV, FPLs, etc.
+- 🌱 I’m currently learning Rust, C++17/20, LISP (Racket), etc.
+- 🎬 I’m formerly a motion designer & music producer. 🎧
 <!--- 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...-->
+- 📫 How to reach me: ...-->
+- 😄 Pronouns: He/him
