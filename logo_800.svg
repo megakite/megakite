@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="800" height="800">
+	<clipPath id="cl_7c">
+		<rect width="800" height="800"/>
+	</clipPath>
+	<g clip-path="url(#cl_7c)">
+		<path fill="white" transform="matrix(1 0 0 -1 400 400)" d="M-400 -400L400 -400L400 400L-400 400L-400 -400Z"/>
+		<path fill="none" stroke="#323232" stroke-width="4" stroke-miterlimit="10" transform="matrix(1 0 0 -1 400 400)" d="M-360 -360L360 -360L360 360L-360 360L-360 -360Z"/>
+		<path fill="none" stroke="black" stroke-width="4" stroke-miterlimit="10" transform="matrix(0.934173 -0.35682 -0.35682 -0.934173 400 177.508)" d="M-385.368 0L-315.301 0L-245.234 0L-175.167 0L-105.1 0L-35.0335 0L35.0335 0L105.1 0L175.167 0L245.234 0L315.301 0L385.368 0"/>
+		<path fill="none" stroke="black" stroke-width="4" stroke-miterlimit="10" transform="matrix(0.35682 -0.934173 -0.934173 -0.35682 622.492 400)" d="M-385.368 0L-315.301 0L-245.234 0L-175.167 0L-105.1 0L-35.0335 0L35.0335 0L105.1 0L175.167 0L245.234 0L315.301 0L385.368 0"/>
+		<path fill="none" stroke="black" stroke-width="4" stroke-miterlimit="10" transform="matrix(0.707107 0.707107 0.707107 -0.707107 262.492 537.508)" d="M-314.651 0L-257.442 0L-200.233 0L-143.023 0L-85.814 0L-28.6047 0L28.6047 0L85.814 0L143.023 0L200.233 0L257.442 0L314.651 0"/>
+		<path transform="matrix(0.618 0 0 -0.618 40 760)" d="M0 0L720 0L0 720L0 0"/>
+	</g>
+</svg>
