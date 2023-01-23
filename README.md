@@ -1,4 +1,4 @@
-<img style="width: 25%" src="logo_800.svg" />
+<img width="400" src="logo_800.svg" />
 
 ### Nice to meet you.
 
