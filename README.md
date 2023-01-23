@@ -1,4 +1,4 @@
-<img width="400" src="logo_800.svg" />
+<img style="@media screen and (max-width: 768px) { img { width: 100% } } @media screen and (min-width: 768px) { img { width: 25% } }" src="logo_800.svg" />
 
 ### Nice to meet you.
 
