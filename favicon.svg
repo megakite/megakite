@@ -12,9 +12,9 @@
 		<rect width="512" height="512"/>
 	</clipPath>
 	<g clip-path="url(#cl_3)">
-		<path fill="none" stroke-width="32" stroke-miterlimit="10" transform="matrix(1 0 0 -1 256 256)" d="M-208 -208L208 -208L208 208L-208 208L-208 -208Z"/>
-		<path fill="none" stroke-width="32" stroke-miterlimit="10" transform="matrix(1 0 0 -1 256 256)" d="M-208 49.1L208 208"/>
-		<path fill="none" stroke-width="32" stroke-miterlimit="10" transform="matrix(1 0 0 -1 256 256)" d="M49.1 -208L208 208"/>
-		<path id="thefill" stroke-width="32" stroke-miterlimit="10" transform="matrix(1 0 0 -1 256 256)" d="M-208 -208L-208 49.1L49.1 -208L-208 -208Z"/>
+		<path fill="none" stroke-width="8" stroke-miterlimit="10" transform="matrix(1 0 0 -1 256 256)" d="M-208 -208L208 -208L208 208L-208 208L-208 -208Z"/>
+		<path fill="none" stroke-width="8" stroke-miterlimit="10" transform="matrix(1 0 0 -1 256 256)" d="M-208 49.1L208 208"/>
+		<path fill="none" stroke-width="8" stroke-miterlimit="10" transform="matrix(1 0 0 -1 256 256)" d="M49.1 -208L208 208"/>
+		<path id="thefill" stroke-width="8" stroke-miterlimit="10" transform="matrix(1 0 0 -1 256 256)" d="M-208 -208L-208 49.1L49.1 -208L-208 -208Z"/>
 	</g>
 </svg>
