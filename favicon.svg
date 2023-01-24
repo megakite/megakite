@@ -4,7 +4,7 @@
 		<rect width="512" height="512"/>
 	</clipPath>
 	<g clip-path="url(#cl_7)">
-		<path fill="none" stroke="black" stroke-width="4" stroke-miterlimit="10" transform="matrix(1 0 0 -1 256 256)" d="M-200 -200L200 -200L200 200L-200 200L-200 -200Z"/>
+		<path fill="none" stroke="black" stroke-width="8" stroke-miterlimit="10" transform="matrix(1 0 0 -1 256 256)" d="M-200 -200L200 -200L200 200L-200 200L-200 -200Z"/>
 		<path fill="black" transform="matrix(1 0 0 -1 256 256)" d="M-200 -200L-200 48L200 200L48 -200L-200 -200"/>
 	</g>
 </svg>
