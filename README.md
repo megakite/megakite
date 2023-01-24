@@ -1,6 +1,6 @@
 ## Nice to meet you.
 
-<a href="https://megakite.icu"><img align="right" width="160" src="logo_800.svg" /></a>
+<a href="https://megakite.icu"><img align="right" width="128" src="favicon.svg" /></a>
 
 ’am currently working on various web projects, scripts & plugins for creative applications, reinforcement learning, and so on. 
 
