@@ -1,10 +1,18 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="512" height="512">
-	<clipPath id="cl_7">
+	<style>
+		path { stroke: black; }
+		#thefill { fill: black; }
+		@media (prefers-color-scheme: dark) {
+		    path { stroke: white; }
+		    #thefill { fill: white; }
+		}
+	</style>
+	<clipPath id="cl_1">
 		<rect width="512" height="512"/>
 	</clipPath>
-	<g clip-path="url(#cl_7)">
-		<path fill="none" stroke="black" stroke-width="8" stroke-miterlimit="10" transform="matrix(1 0 0 -1 256 256)" d="M-200 -200L200 -200L200 200L-200 200L-200 -200Z"/>
-		<path fill="black" transform="matrix(1 0 0 -1 256 256)" d="M-200 -200L-200 48L200 200L48 -200L-200 -200"/>
+	<g clip-path="url(#cl_1)">
+		<path fill="none" stroke-width="4" stroke-miterlimit="10" transform="matrix(1 0 0 -1 256 256)" d="M-208 -208L208 -208L208 208L-208 208L-208 -208Z"/>
+		<path id="thefill" transform="matrix(1 0 0 -1 256 256)" d="M-208 -208L-208 48L208 208L48 -208L-208 -208"/>
 	</g>
 </svg>
