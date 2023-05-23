@@ -1,9 +1,12 @@
-## Nice to meet you.
+## Nice to meet you. 幸会。
 
 <a href="https://megakite.icu"><img align="right" width="128" type="image/svg+xml" src="favicon.svg" alt="Logo -> Blog" /></a>
 
-’am an undergrad of computer science, formerly (and now, probably) a motion designer & music producer.
+’am an undergrad of computer science, formerly a motion designer & music producer.\
+计科专业本科生，先前从事视觉设计和编曲工作。
 
-’am currently working on various web projects, scripts & plugins for creative applications, reinforcement learning, and so on. 
+’am currently, and will be working on various projects.\
+正在做各种各样的东西，将来也会。
 
-’am learning Rust, Java, PyTorch & TensorFlow, system programming, etc.
+’am primarily using Rust, C++, and JavaScript.\
+主力语言是 Rust, C++ 和 JavaScript。
