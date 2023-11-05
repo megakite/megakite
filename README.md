@@ -2,7 +2,7 @@
 
 ---
 
-<a href="https://megakite.icu"><img align="right" width="128" type="image/svg+xml" src="res/favicon.svg" alt="Logo -> Blog" /></a>
+<a href="https://megakite.icu"><img align="right" width="128" type="image/svg+xml" src="favicon.svg" alt="Logo -> Blog" /></a>
 
 ’am an undergrad of computer science, formerly a motion designer & music producer.\
 计科专业本科生，先前从事视觉设计和编曲工作。
