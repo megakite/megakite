@@ -10,8 +10,8 @@
 ’am currently, and will be working on various projects.\
 正在做各种各样的东西，将来也会。
 
-’am primarily using JavaScript (TypeScript), Rust and Haskell.\
-主力语言是 JavaScript（TypeScript）、Rust 和 Haskell。
+’am primarily using JavaScript (TypeScript), C and Rust.\
+主力语言是 JavaScript（TypeScript）、C 和 Rust。
 
 ---
 
