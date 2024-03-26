@@ -2,7 +2,7 @@
 
 <a href="https://megakite.icu"><img align="right" width="128" type="image/svg+xml" src="favicon.svg" alt="Logo" /></a>
 
-’am an undergrad of computer science; formerly a hobbyist motion designer & music producer.\
+’am an undergrad of computer science; also a hobbyist motion designer & music producer.\
 计科专业本科生，玩过视觉设计和编曲。
 
 ’am currently, and will be working on various projects.\
