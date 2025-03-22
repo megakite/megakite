@@ -8,8 +8,8 @@
 ’am currently, and will be working on various projects.\
 正在做各种各样的东西，将来也会。
 
-’am primarily using C, C++, OCaml and TypeScript.\
-主力语言是 C、C++、OCaml 和 TypeScript。
+’am primarily using C.\
+主力语言是 C。
 
 ---
 
